@@ -10,6 +10,8 @@ https://github.com/user-attachments/assets/a02b7773-fae8-4e42-b5ec-252462924245
 
 ✅ LANUGUAGE: ITALIAN
 
+🍴 FORK OF: https://github.com/capitankirk100/Comprehensive-and-responsive-management-for-the-farm-machinery-service-workshop.-Expandable.-
+
 ### ViaTecnologia Manager - Management System
 
 ## System Overview
